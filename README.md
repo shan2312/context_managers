@@ -96,11 +96,4 @@ Contributions are welcome. If you encounter issues or have suggestions, please o
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or further information, please contact [your-email@example.com].
-
 ---
-
-Feel free to adjust the content according to your specific needs and module name. If you have more specific details or features, you should include them in the README.
